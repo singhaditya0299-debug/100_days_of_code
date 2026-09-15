@@ -25,6 +25,6 @@ int main(){
     c=a;
     a=b;
     b=c;
-    printf("Before the value of first and second value is %d and %d",a,b);
+    printf("After the value of first and second value is %d and %d",a,b);
     return 0;
 }
